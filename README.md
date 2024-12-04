@@ -6,4 +6,4 @@ The "AI Algorithms Cheat Sheet" aims to be a useful resource for your AI ambitio
 
 Each entry names the algorithm, offers a short description, use cases and a rationale for the mentioned use cases.
 
-I greatly encourage anyopne to contribute! If you find a mistake, or a glaring omission - reach out to me at zen@eistengaming.com, raise an issue or, even better, correct it and create a pull request. All feedback is welcome.
+I greatly encourage anyopne to contribute! If you find a mistake, or a glaring omission - reach out to me at contact@boeni.industries, raise an issue or, even better, correct it and create a pull request. All feedback is welcome.
